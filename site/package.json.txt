@@ -1,0 +1,10 @@
+{
+  "name": "meu-frontend",
+  "private": true,
+  "scripts": {
+    "start": "npx serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}

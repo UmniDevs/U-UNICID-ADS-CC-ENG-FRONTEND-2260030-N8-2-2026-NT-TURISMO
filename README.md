@@ -21,6 +21,10 @@ Envie o conteúdo deste pacote para a raiz do repositório. Em Settings > Pages,
 
 Inclui práticas responsáveis, roteiros ilustrativos, indicadores fictícios, galeria, multimídia, perguntas frequentes e formulário.
 
+## Evidências de layout
+
+O arquivo [docs/evidencias_layout.pdf](docs/evidencias_layout.pdf) reúne capturas em página completa das 10 páginas, em visualização desktop. As páginas também foram verificadas em largura móvel, sem rolagem horizontal. Imagens e recursos multimídia externos dependem de conexão com a internet.
+
 ## Equipe
 
 Preencha os nomes no arquivo docs/escopo_projeto.md antes da entrega.

@@ -23,7 +23,7 @@ Inclui práticas responsáveis, roteiros ilustrativos, indicadores fictícios, g
 
 ## Evidências de layout
 
-O arquivo [docs/evidencias_layout.pdf](docs/evidencias_layout.pdf) reúne capturas em página completa das 10 páginas, em visualização desktop. As páginas também foram verificadas em largura móvel, sem rolagem horizontal. Imagens e recursos multimídia externos dependem de conexão com a internet.
+As capturas em página completa das 10 páginas, em visualização desktop, estão disponíveis como arquivos PNG individuais na pasta [docs/evidencias_layout/](docs/evidencias_layout/), prontos para usar em apresentações. O arquivo [docs/evidencias_layout.pdf](docs/evidencias_layout.pdf) reúne as mesmas capturas em um único documento. As páginas também foram verificadas em largura móvel, sem rolagem horizontal. Imagens e recursos multimídia externos dependem de conexão com a internet.
 
 ## Equipe
 
